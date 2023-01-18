@@ -1,0 +1,1 @@
+A script that checks if streamer is live using node.js and twitch API

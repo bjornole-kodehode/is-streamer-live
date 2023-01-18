@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 import open from "open";
 import dotenv from "dotenv"
-dotenv.config()
+dotenv.config();
 
 const clientId = process.env.TWITCH_CLIENT_ID;
 const accessToken = process.env.TWITCH_ACCESS_TOKEN;
